@@ -1,2 +1,4 @@
 n = int(input())
-while n == 
+while n == 3:
+    print(n)
+    n=n+1
