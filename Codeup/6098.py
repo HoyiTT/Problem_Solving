@@ -9,19 +9,20 @@ for m in range(10):
 x = 1
 y = 1
 
-print(d[1][3])
-
-
 while True:
-    if d[x][y] == 2:
+    if d[x][y] == 2 :
+        d[x][y] = 9
         break
-        
+    if x == 8 and y == 8 and d[x][y] == 0:
+        d[x][y] = 9
+        break
+    if d[x][y+1] == 0:
+        d[x][y] = 9
+        y=y+1
+        continue       
     if d[x][y+1] == 1:
-        x+=1
-        continue
-    
-    if d[x+1][y] == 1:
-        y+=1
+        d[x][y]=9
+        x=x+1
         continue
 
 for m in range(10):
