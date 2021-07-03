@@ -10,20 +10,18 @@ x = 1
 y = 1
 
 while True:
-    if d[x][y] == 2 :
+    if d[x][y] == 0:
+        d[x][y] = 9
+    elif d[x][y] == 2:
         d[x][y] = 9
         break
-    if x == 8 and y == 8 and d[x][y] == 0:
-        d[x][y] = 9
+
+    if(d[x+1][y] == 1 and d[x][y+1] == 1)or(x==8 and y == 8):
         break
     if d[x][y+1] == 0:
-        d[x][y] = 9
-        y=y+1
-        continue       
-    if d[x][y+1] == 1:
-        d[x][y]=9
-        x=x+1
-        continue
+        y = y + 1
+    elif d[x][y+1] == 1:
+        x = x + 1
 
 for m in range(10):
     for n in range(10):
