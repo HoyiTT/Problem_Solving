@@ -13,4 +13,5 @@ for i in range(2, n+1):
         dp[i] = min(dp[i], dp[i//3] + 1)
 
     print(i,dp[i])
+print(dp)
 print(dp[n])
