@@ -8,9 +8,18 @@ def factorization(x):
         else:
             d = d + 1
     for i in data:
-        
+        if i > 10 ** 6:
+            continue
+        else:
+            print("NO")
+            return False
+    print("yes")
+    return True
+
 
 x = int(input())
-for x in range (0,x):
-    x
-factorization(1000036000099)   
+data2 = []
+for x in range(x):
+    data2.append(int(input()))
+for x in data2:
+    factorization(x)
