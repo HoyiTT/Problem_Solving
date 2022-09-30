@@ -13,7 +13,7 @@ def factorization(x):
         else:
             print("NO")
             return False
-    print("yes")
+    print("YES")
     return True
 
 
