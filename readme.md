@@ -22,11 +22,11 @@
 [11718](https://www.acmicpc.net/problem/11718)
 [11719](https://www.acmicpc.net/problem/11719)
 [11720](https://www.acmicpc.net/problem/11720)
-<<<<<<< HEAD
-
-=======
 [11721](https://www.acmicpc.net/problem/11721)
 [2739](https://www.acmicpc.net/problem/2739)
 [2741](https://www.acmicpc.net/problem/2741)
 [1924](https://www.acmicpc.net/problem/1924)
->>>>>>> 3cd8aee967832f5b27d39ca5c8b60094bcaa8b47
+[8393](https://www.acmicpc.net/problem/8393)
+[10818](https://www.acmicpc.net/problem/10818)
+[2438](https://www.acmicpc.net/problem/2438)
+[2439](https://www.acmicpc.net/problem/2439)
