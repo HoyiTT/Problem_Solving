@@ -35,3 +35,4 @@
 [2442](https://www.acmicpc.net/problem/2442)
 [2445](https://www.acmicpc.net/problem/2445)
 [2522](https://www.acmicpc.net/problem/2522)
+[2446](https://www.acmicpc.net/problem/2446)
