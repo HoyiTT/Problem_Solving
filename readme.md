@@ -10,6 +10,8 @@
 # JAVA
 
 ## BOJ
+
+### 입출력
 [1000](https://www.acmicpc.net/problem/1000)
 [2557](https://www.acmicpc.net/problem/2557)
 [2558](https://www.acmicpc.net/problem/2558)
@@ -37,3 +39,4 @@
 [2522](https://www.acmicpc.net/problem/2522)
 [2446](https://www.acmicpc.net/problem/2446)
 [10991](https://www.acmicpc.net/problem/10991)
+[10992](https://www.acmicpc.net/problem/10992)
