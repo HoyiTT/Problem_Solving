@@ -42,6 +42,7 @@
 [10992](https://www.acmicpc.net/problem/10992)
 [9498](https://www.acmicpc.net/problem/9498)
 [5554](https://www.acmicpc.net/problem/5554)
+[10430](https://www.acmicpc.net/problem/10430)
 
 ### DP
 [1463](https://www.acmicpc.net/problem/1463)
