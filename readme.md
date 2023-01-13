@@ -59,6 +59,7 @@
 [11055](https://www.acmicpc.net/problem/11055)
 [11722](https://www.acmicpc.net/problem/11722)
 [1912](https://www.acmicpc.net/problem/1912)
+[2579](https://www.acmicpc.net/problem/2579)
 
 ### 정렬
 [2751](https://www.acmicpc.net/problem/2751)
