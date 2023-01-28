@@ -6,6 +6,10 @@
 
 ## 이것이 취업을 위한 코딩테스트다
 
+### 그리디
+[거스름돈](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-1.py)
+[큰수의 법칙](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-2_s.py)
+[숫자 카드 게임](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-3_s.py)
 
 # JAVA
 (*은 추후에 재학습 요망)
