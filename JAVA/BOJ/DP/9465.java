@@ -42,6 +42,8 @@ class Main {
         dp[1][c] = Math.max(dp[0][c - 1] + dt[0][c - 1], dp[2][c - 1] + dt[0][c - 1]);
         dp[2][c] = Math.max(dp[0][c - 1] + dt[1][c - 1], dp[1][c - 1] + dt[1][c - 1]);      
       }
+      
+      //3 x n 배열로 만들어 값 저장 
 
       // for(int a = 0; a < row + 1; a++){
       //   for(int b = 0; b < col + 1;b++){
@@ -50,7 +52,7 @@ class Main {
       //   System.out.println();
       // }
       
-      //3 x n 배열로 만들어 값 저장 
+      
       
       System.out.println(Math.max(dp[1][col],dp[2][col]));
       //계산된 값 중 최대값 출력

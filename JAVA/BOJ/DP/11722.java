@@ -13,7 +13,7 @@ class Main {
     }
 
     dp[0] = 1;
-    int r = dp[0];
+    int small = dp[0];
     
     for(int b = 1;b < k;++b){
       dp[b] = 1;
@@ -24,7 +24,7 @@ class Main {
         }
         //b값이 c보다 작고 dp[b]가 dp[c] + 1보다 작을 경우 dp[b]에 dp[c] + 1을 대입
       }
-    r = Math.max(dp[b],r);
+    small = Math.max(dp[b],small);
     }
     System.out.println(r);
     scanner.close();

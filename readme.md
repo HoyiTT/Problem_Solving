@@ -70,3 +70,9 @@
 [11650](https://www.acmicpc.net/problem/11650)
 [11651](https://www.acmicpc.net/problem/11651)
 [10814](https://www.acmicpc.net/problem/10814)
+
+## 프로그래머스
+
+### LV.1
+[나머지가 1이 되는 수 찾기](),
+[삼총사]()
