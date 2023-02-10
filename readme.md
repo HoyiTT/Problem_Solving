@@ -7,8 +7,8 @@
 ## 이것이 취업을 위한 코딩테스트다
 
 ### 그리디
-[거스름돈](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-1.py)
-[큰수의 법칙](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-2_s.py)
+[거스름돈](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-1.py),
+[큰수의 법칙](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-2_s.py),
 [숫자 카드 게임](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/ICHICO/3-3_s.py)
 
 # JAVA
@@ -74,5 +74,6 @@
 ## 프로그래머스
 
 ### LV.1
-[나머지가 1이 되는 수 찾기](),
-[삼총사]()
+[나머지가 1이 되는 수 찾기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/87389.java),
+[삼총사](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/131705.java),
+[약수의 합](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/12928.java)
