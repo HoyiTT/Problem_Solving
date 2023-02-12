@@ -77,4 +77,5 @@
 [나머지가 1이 되는 수 찾기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/87389.java),
 [삼총사](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/131705.java),
 [약수의 합](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/12928.java),
-[평균 구하기]()
+[평균 구하기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/12944.java),
+[숫자 문자열과 영단어](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/81301.java)
