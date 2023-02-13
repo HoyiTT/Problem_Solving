@@ -79,3 +79,4 @@
 [약수의 합](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/12928.java),
 [평균 구하기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/12944.java),
 [숫자 문자열과 영단어](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/81301.java)
+[문자열 정수로 바꾸기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/12925.java)
