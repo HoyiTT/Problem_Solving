@@ -87,3 +87,4 @@
 [문자열 내 p와 y의 개수](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/LV1/12916.java),
 [문자열 다루기 기본](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12918.java),
 [서울에서 김 서방 찾기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12919.java),
+[수박수박수박수박수박수?](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12922.java)
