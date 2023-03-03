@@ -89,3 +89,4 @@
 [서울에서 김 서방 찾기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12919.java),
 [수박수박수박수박수박수?](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12922.java),
 [가운데 글자 가져오기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12903.java),
+[콜라츠 추측](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12943.java),
