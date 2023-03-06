@@ -90,3 +90,5 @@
 [수박수박수박수박수박수?](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12922.java),
 [가운데 글자 가져오기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12903.java),
 [콜라츠 추측](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12943.java),
+[자릿수 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12931.java),
+[직사각형 별찍기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12693.java),
