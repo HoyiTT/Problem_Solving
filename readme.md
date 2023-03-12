@@ -96,3 +96,4 @@
 [음양 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/76501.java),
 [짝수와 홀수](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12937.java),
 [같은 숫자는 싫어](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12906.java),
+[이상한 문자 만들기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12930.java)
