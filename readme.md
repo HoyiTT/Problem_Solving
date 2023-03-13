@@ -98,3 +98,4 @@
 [같은 숫자는 싫어](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12906.java),
 [이상한 문자 만들기](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12930.java),
 [피보나치 수](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/12945.java),
+[비밀지도*](https://github.com/HoyiTT/Problem_Solving/blob/master/JAVA/프로그래머스/LV1/17681.java),
