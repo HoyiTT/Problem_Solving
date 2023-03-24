@@ -13,7 +13,7 @@
 ## 프로그래머스
 ### LV.1
 [문자열을 정수로 바꾸기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12925.py)
-
+[약수의 합](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12928.py)
 
 # JAVA
 (*은 추후에 재학습 요망)
