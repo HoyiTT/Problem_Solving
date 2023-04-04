@@ -20,6 +20,9 @@
 [약수의 합](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12928.py),
 [핸드폰 번호 가리기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12948.py),
 [문자열 내의 p와 y의 개수 ](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12916.py),
+[정수 내림차순으로 정렬하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12933.py),
+
+
 # JAVA
 (*은 추후에 재학습 요망)
 ## BOJ
