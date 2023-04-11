@@ -22,6 +22,8 @@
 [핸드폰 번호 가리기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12948.py),
 [문자열 내의 p와 y의 개수 ](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12916.py),
 [정수 내림차순으로 정렬하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12933.py),
+[두 개 뽑아서 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/68644.py),
+[음양 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/76501.py),
 
 
 # JAVA
