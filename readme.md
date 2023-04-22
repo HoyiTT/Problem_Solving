@@ -1,6 +1,7 @@
 # Python
 
 ## BOJ
+[트럭주차](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/BOJ/2979.py),
 
 ## CodeUp
 
