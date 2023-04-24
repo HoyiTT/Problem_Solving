@@ -27,6 +27,7 @@
 [정수 내림차순으로 정렬하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12933.py),
 [두 개 뽑아서 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/68644.py),
 [음양 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/76501.py),
+[추억점수](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/176963.py),
 
 
 # JAVA
