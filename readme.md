@@ -28,6 +28,7 @@
 [두 개 뽑아서 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/68644.py),
 [음양 더하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/76501.py),
 [추억점수](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/176963.py),
+[하샤드 수](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12947.py),
 
 
 # JAVA
