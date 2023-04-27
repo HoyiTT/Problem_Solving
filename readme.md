@@ -30,6 +30,7 @@
 [추억점수](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/176963.py),
 [하샤드 수](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12947.py),
 [제일 작은 수 제거하기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12935.py),
+[가운데 글자 가져오기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12903.py),
 
 
 # JAVA
