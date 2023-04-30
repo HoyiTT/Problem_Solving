@@ -34,6 +34,9 @@
 [짝수와 홀수](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12937.py),
 [x만큼 간격이 있는 n개의 숫자](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12954.py),
 
+### LV.2
+[최댓값과 최솟값](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV2/12939.py),
+
 # JAVA
 (*은 추후에 재학습 요망)
 ## BOJ
