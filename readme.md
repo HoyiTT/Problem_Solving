@@ -36,6 +36,8 @@
 
 ### LV.2
 [최댓값과 최솟값](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV2/12939.py),
+[정수 제곱근 판별](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV2/12934.py),
+
 
 # JAVA
 (*은 추후에 재학습 요망)
