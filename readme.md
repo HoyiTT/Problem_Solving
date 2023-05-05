@@ -35,6 +35,7 @@
 [x만큼 간격이 있는 n개의 숫자](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12954.py),
 [약수의 개수와 덧셈](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/77884.py),
 [자연수 뒤집어 배열로 만들기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12932.py),
+[나누어 떨어지는 숫자 배열](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12910.py),
 
 ### LV.2
 [최댓값과 최솟값](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV2/12939.py),
