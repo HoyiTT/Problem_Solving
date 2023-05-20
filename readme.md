@@ -38,6 +38,7 @@
 [나누어 떨어지는 숫자 배열](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12910.py),
 [내적](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/70128.py),
 [JadenCase 문자열 만들기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12951.py),
+[행렬의 덧셈](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12950.py),
 
 ### LV.2
 [최댓값과 최솟값](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV2/12939.py),
