@@ -40,6 +40,7 @@
 [JadenCase 문자열 만들기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12951.py),
 [행렬의 덧셈](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12950.py),
 [최대공약수와 최소공배수](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/12940.py),
+[3진법 뒤집기](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV1/68935.py),
 
 ### LV.2
 [최댓값과 최솟값](https://github.com/HoyiTT/Problem_Solving/blob/master/PYTHON/프로그래머스/LV2/12939.py),
