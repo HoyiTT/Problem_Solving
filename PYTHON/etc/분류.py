@@ -36,6 +36,7 @@ def solution(arr):
             counts[num] += 1
         else:
             counts[num] = 1
+    print(counts)
     
     # 중복 횟수가 2 이상인 숫자들을 결과 배열에 추가
     result = []
@@ -48,3 +49,5 @@ def solution(arr):
         result.append(-1)
     
     return result
+
+print(solution([1, 3, 3, 3, 3, 4, 4]))
