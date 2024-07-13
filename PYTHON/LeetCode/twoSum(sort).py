@@ -6,6 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
         num_to_index = {}
+        
+        # enumrate는 인덱스와 요소를 리턴
         for i, num in enumerate(nums):
             complement = target - num
             if complement in num_to_index:
